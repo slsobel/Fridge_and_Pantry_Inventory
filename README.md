@@ -1,4 +1,4 @@
-# Fridge_and_Pantry_Inventory
+# Pandemic Pantry
 My first side project, modeled after the classic Vending Machine OOP &amp; File I/O exercise.
 
 With lots of us being at home for COVID, using up ingredients in our pantries and fridges is necessary to keeping costs down and shopping trips minimal.
